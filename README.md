@@ -61,5 +61,4 @@ This project provides a strong baseline for churn prediction. Further improvemen
 - Scikit-learn Documentation
 - XGBoost Documentation
 - imbalanced-learn SMOTE
-```
 
